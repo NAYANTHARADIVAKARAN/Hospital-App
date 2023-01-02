@@ -1,0 +1,22 @@
+[
+    {
+        "hospitalName": "A Hospital",
+        "patientCount": "600",
+        "location": "thalassery"
+    },
+    {
+        "hospitalName": "B Hospital",
+        "patientCount": "1700",
+        "location": "panoor"
+    },
+    {
+        "hospitalName": "C hospital",
+        "patientCount": "2800",
+        "location": "kozhikode"
+    },
+    {
+        "hospitalName": "D Hospital",
+        "patientCount": "800",
+        "location": "kannur"
+    }
+]
